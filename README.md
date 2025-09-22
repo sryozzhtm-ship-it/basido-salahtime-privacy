@@ -12,11 +12,11 @@ We value your privacy and keep data collection to a minimum. We may collect the 
 - We may request access to your device's location to provide **accurate prayer times** and **Qibla direction**.
 - This data is used in real-time and is **not stored or shared**.
 
-### b. Usage Data (Optional)
+### b. Usage Data 
 - We may collect anonymous usage statistics to improve app performance and user experience.
 - This data does **not include any personal or identifiable information**.
 
-### c. Donations and Zakat (If applicable)
+### c. Donations and Zakat 
 - If you use the donations or zakat features, your payment is processed through secure third-party services (e.g., payment gateways).
 - We do **not store any credit card or financial information** on our servers.
 
